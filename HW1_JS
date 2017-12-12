@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Резюме Потаповича</title>
+	<style>
+	.class1
+	{
+		/*height: 250px;*/
+		width: 150px;
+		/*border: 100px red;*/
+		border-radius: 80px;
+		background-color: white;
+		margin: 20px auto;
+		padding: 3px;
+     }
+     .class2
+	{
+		height: 150px;
+		width: 200px;
+		/*border: 30px white;*/
+		background-color: grey;
+	
+     }
+     .class3
+     {
+     	float: left;
+     }
+     .class4
+     {
+     	bottom-border: yellow;
+     	color: white;
+     	background-color: grey;
+     }
+	</style>
+</head>
+<body>
+	<div>
+		Curriculum vitae
+	</div>
+	<div class=class3>
+		<div class=class2>
+			<img class=class1 src="406819-svetik.jpg" alt 'Медведь'>
+		   	<div class="class4">
+    			Михал <br/>
+        		Потапович
+    		</div>
+   			<div>
+   				<ins>Предпочтения:</ins><br/>
+   		 		Рыба</canvas>
+   		 		Рыба<br/>
+    	 		Мед<br/>
+    	 		Зелень
+    		</div>
+   			<div><ins>Контакты</ins>
+     			<li><a href='https://www.facebook.com'>https://www.facebook.com</a></li>
+   				<li><a href='https://twitter.com/?lang=ru'>https://twitter.com/?lang=ru</a></li>
+   				<li><a href='https://www.instagram.com/?hl=ru'>https://www.instagram.com/?hl=ru</a></li>
+   			</div>
+		</div>
+	</div>
+    <div class=class3>
+    	<div>
+    		<strong>Дата Рождения</strong><br/>
+    		15 сентября 1898<br/>
+    		<strong>Место рождения</strong><br/>
+    		Воображение
+    	</div>
+    	<div>
+    		<strong>Skills</strong><br/>
+    		<ul>
+	    		<li>foto</li>
+	    		<li>Video</li>
+    			<li>Audio</li>
+    		</lu>
+    	</div>
+    	<div>
+    		<strong>About me</strong><br/>
+    		<ul>
+	    		<li>Good</li>
+	    		<li>Luck</li>
+    		</lu>
+    	</div>	
+    </div>
+</body>
+</html>
